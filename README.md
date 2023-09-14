@@ -1,2 +1,1 @@
-# business-guide
-极简交易学
+# 极简交易学 Business Guide
